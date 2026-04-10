@@ -1,4 +1,5 @@
 CerebroShell 🧠
+
 A GPU-accelerated, AI-augmented terminal with offline natural language command assistance powered by Qwen2.5-7B.
 
 What is CerebroShell?
