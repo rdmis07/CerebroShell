@@ -53,5 +53,5 @@ bashgit clone https://github.com/rdmis07/CerebroShell.git
 cd CerebroShell
 # setup instructions here
 
-Author
+Creator - 
 Rudransh Mishra
