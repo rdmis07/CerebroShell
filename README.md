@@ -51,7 +51,6 @@ Ollama or llama.cpp for local LLM inference
 Installation
 bashgit clone https://github.com/rdmis07/CerebroShell.git
 cd CerebroShell
-# setup instructions here
 
 Creator - 
 Rudransh Mishra
