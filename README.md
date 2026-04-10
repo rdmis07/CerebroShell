@@ -4,13 +4,13 @@ A GPU-accelerated, AI-augmented terminal with offline natural language command a
 What is CerebroShell?
 Traditional terminals are powerful but unforgiving — strict syntax, no guidance, and zero tolerance for typos. CerebroShell adds an intelligent AI layer between you and the shell, letting you type natural language when you need it and raw commands when you don't. Everything runs completely offline. No cloud, no privacy trade-offs, no latency surprises.
 Under the hood, it's three layers:
-┌─────────────────────────────┐
-│       Terminal (OpenGL)     │  ← GPU-accelerated rendering
-├─────────────────────────────┤
-│       AI Layer (Qwen2.5-7B) │  ← Natural language → shell command
-├─────────────────────────────┤
-│       Bash (Execution)      │  ← Actual command execution
-└─────────────────────────────┘
+
+       Terminal (OpenGL)       ← GPU-accelerated rendering
+
+       AI Layer (Qwen2.5-7B)   ← Natural language → shell command
+
+       Bash (Execution)        ← Actual command execution
+
 
 How It Works
 CerebroShell has two modes, toggled by how you submit input:
